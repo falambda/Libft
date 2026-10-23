@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <login>.*
+*This project has been created as part of the 42 curriculum by <fwahab-d>.*
 
 # Libft
 
@@ -23,7 +23,7 @@ It is organised in three parts:
 ```c
 typedef struct s_list
 {
-	void			*content;
+	void	*content;
 	struct s_list	*next;
 }	t_list;
 ```
@@ -75,4 +75,4 @@ cc -Wall -Wextra -Werror main.c -L. -lft -o my_program
 
 ### Use of AI
 
-AI was used as a support tool for reviewing my code and for explaining theory concepts (e.g. linked lists and memory management). All functions were designed, written, and tested by me.
+AI was used as a support tool for explaining theory concepts (e.g. linked lists, memory management, and the rationale behind of the strlcat interface).
