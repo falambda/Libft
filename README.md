@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <fwahab-d>.*
+*This project has been created as part of the 42 curriculum by fwahab-d.*
 
 # Libft
 
@@ -23,7 +23,7 @@ It is organised in three parts:
 ```c
 typedef struct s_list
 {
-	void	*content;
+	void			*content;
 	struct s_list	*next;
 }	t_list;
 ```
