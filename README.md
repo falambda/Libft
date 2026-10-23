@@ -141,4 +141,4 @@ cc -Wall -Wextra -Werror main.c -L. -lft -o my_program
 
 ### Use of AI
 
-AI was used as a support tool for explaining theory concepts (e.g. linked lists, memory management, and the rationale behind the `strlcat` interface).
+AI was used as a support tool for explaining theory concepts (e.g. linked lists, memory management, and the rationale behind the `strlcat` interface). In addition, AI was used to write the function description tables of this README.md.
