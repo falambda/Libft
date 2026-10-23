@@ -135,6 +135,7 @@ cc -Wall -Wextra -Werror main.c -L. -lft -o my_program
 
 - `man` pages of the reimplemented functions (`man 3 strlen`, `man 3 strlcpy`, etc.)
 - [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language), Kernighan & Ritchie
+- Introducción a la programación estructurada en C. Primera edición. PEARSON EDUCACIÓN, México, 2011.
 - [GNU Make documentation](https://www.gnu.org/software/make/manual/make.html)
 - [Norm - 42 Docs](https://github.com/42School/norminette)
 - Peer-learning with other 42 students and the 42 evaluation process
