@@ -23,7 +23,7 @@ It is organised in three parts:
 ```c
 typedef struct s_list
 {
-	void			*content;
+	void		*content;
 	struct s_list	*next;
 }	t_list;
 ```
